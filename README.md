@@ -1,6 +1,6 @@
 <h1 align="center">ItIs-Dev</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=440&lines=Game+Developer; Handsome" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=440&lines=Game+Developer;Handsome" alt="Typing SVG" />
 </p>
 
 ---
