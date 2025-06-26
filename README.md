@@ -1,6 +1,6 @@
 <h1 align="center">ItIs-Dev</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=440&lines=Game+Developer;Minecraft+Server+Builder;Roblox+Studio+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=440&lines=Game+Developer; Handsome" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,8 +26,8 @@
 ### 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuckyFlameMC&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyFlameMC&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItIs-Dev&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItIs-Dev&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
