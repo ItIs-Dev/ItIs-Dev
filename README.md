@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-> Hello! I'm LuckyFlame — a passionate game developer.  
+> Hello! I'm ItIsDev — a passionate game developer.  
 > 🚀 I previously built custom **PocketMine-MP servers** for Minecraft.  
 > 🛠️ Currently, I’m creating immersive games using **Roblox Studio**.  
 > 🎯 My goal is to build engaging experiences and quality game systems for players.
