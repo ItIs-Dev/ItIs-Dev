@@ -1,51 +1,43 @@
-<h1 align="center">ItIs-Dev</h1>
+<h1 align="center">🚀 ItIs-Dev</h1>
+
+---
+
+## 🧑‍💻 About Me
+🎮 Game Developer | 🌍 Building immersive worlds | ⚡ Passionate about game systems  
+
+- 🏗️ Built custom **PocketMine-MP servers** for Minecraft  
+- 🔥 Now focusing on **Roblox Studio** (RPG systems, lobby, UI, combat, minigames)  
+- 🎯 Goal: Deliver **fun, engaging & polished** gameplay experiences  
+
+---
+
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=440&lines=Game+Developer;Handsome" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=lua,php,js,html,css,blender,vscode,github" />
 </p>
 
 ---
 
-### 🧠 About Me
-
-> Hello! I'm ItIsDev — a passionate game developer.  
-> 🚀 I previously built custom **PocketMine-MP servers** for Minecraft.  
-> 🛠️ Currently, I’m creating immersive games using **Roblox Studio**.  
-> 🎯 My goal is to build engaging experiences and quality game systems for players.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-- 🔹 **Game Engines:** Roblox Studio, Minecraft PMMP  
-- 🔹 **Languages:** Lua, PHP, JavaScript, HTML/CSS  
-- 🔹 **Tools:** VS Code, GitHub,...
-- 🔹 **Other:** Blender (basic modeling)
-
----
-
-### 🏆 GitHub Stats
+## 📊 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ItIs-Dev&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItIs-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItIs-Dev&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItIs-Dev&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ItIs-Dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-
-- 🎮 **Wynnlike Minecraft Server** – A fantasy RPG-inspired Minecraft server built on PocketMine-MP  
-- 🧩 **Roblox RPG Game** – In development: character selection, lobby, combat system, UI, and more  
-- 🛠️ **Mini-games Collection** – Roblox Studio projects like Dice Casino, training zones, etc.
+## 🚀 Featured Projects
+- 🧩 **Roblox RPG Game** – Character selection, lobby, combat & UI  
+- 🎮 **Wynnlike Minecraft Server** – Fantasy RPG server with custom mobs & quests  
+- 🎲 **Mini-games Collection** – Dice casino, training zones & more  
 
 ---
 
-### 📬 Contact Me
-
+## 📬 Contact
 - 💬 Discord: `Hide`  
 - 🌐 Website: `Hide`  
-- 📫 Email: `Hide`
-
----
-
-> _"Code is not just a tool, it is magic in this world."_
+- 📫 Email: `Hide`  
