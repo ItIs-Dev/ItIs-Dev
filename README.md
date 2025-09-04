@@ -1,4 +1,5 @@
 <h1 align="center">🚀 ItIs-Dev</h1>
+<a href="https://readme.com"><img src="https://raw.githubusercontent.com/readmeio/.github/main/oss-badge.svg"></a>
 
 ---
 
@@ -14,13 +15,6 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,php,js,html,css,blender,vscode,github" />
-</p>
-
----
-
-## 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ItIs-Dev&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
