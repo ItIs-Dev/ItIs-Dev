@@ -20,7 +20,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ItIs-Dev">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
