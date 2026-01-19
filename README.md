@@ -18,22 +18,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ItIs-Dev">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  <a href="https://www.facebook.com/huyy.bao.375595">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/@ItIs-Devv">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
-  </a>
-</p>
-
----
-
 ## 🛠 Languages & Tools
 
 <p align="center">
@@ -51,8 +35,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItIs-Dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0e75b6&height=120&section=footer"/>
