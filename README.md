@@ -26,15 +26,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## HYPER STORE
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItIs-Dev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItIs-Dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+🚀 **Hyper Store** is a trusted platform providing digital accounts and services.  
+We offer ChatGPT Plus, CapCut Pro, Discord Nitro, and more.  
+Fast activation, reliable support, and affordable pricing.  
+👉 Visit now: https://store.hypertechstudio.xyz/?ref=baotran
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0e75b6&height=120&section=footer"/>
