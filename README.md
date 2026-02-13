@@ -18,14 +18,6 @@
 
 ---
 
-## 🛠 Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,cpp,js,py,lua,go,kotlin,nodejs,laravel,graphql,sqlite,mysql,linux,git,html,figma,blender,arduino,androidstudio&theme=dark" />
-</p>
-
----
-
 ## HYPER STORE
 
 🚀 **Hyper Store** is a trusted platform providing digital accounts and services.  
