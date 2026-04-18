@@ -12,10 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=ItIs-Dev&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=860&lines=Hello%2C+I+am+최유빈.;Freelance+Developer+%7C+Minecraft+PE+Studio+Builder.;I+love+building+small+games+for+fun." alt="typing intro" />
-</p>
-
 ## About Me
 
 - I am **최유빈** (GitHub: **CYooBin**), a freelance developer currently living in **Vietnam**.
