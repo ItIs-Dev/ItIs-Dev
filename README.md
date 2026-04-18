@@ -14,7 +14,7 @@
 
 ## About Me
 
-- I am **최유빈** (GitHub: **CYooBin**), a freelance developer currently living in **Vietnam**.
+- I am **최유빈** (GitHub: **CYooBin10**), a freelance developer currently living in **Vietnam**.
 - I am currently working at **2tech**, focused on building **Minecraft PE** servers and commercial support software.
 - I enjoy creating mini games as a personal hobby.
 - I have a basic **Back-end** foundation and keep learning to expand my skill set.
