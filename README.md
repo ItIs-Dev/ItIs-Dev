@@ -33,12 +33,12 @@
 ## GitHub Performance
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItIs-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItIs-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CYooBin10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYooBin10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItIs-Dev&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CYooBin10&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </div>
 
 ## Reach Me
