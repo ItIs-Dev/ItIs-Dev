@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0b1220,40:1d4ed8,100:06b6d4&text=SKOXZ&fontColor=ffffff&fontSize=72&fontAlignY=42&desc=Freelance%20Developer%20from%20Vietnam&descAlignY=61&descSize=18" alt="Skoxz hero banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0b1220,40:1d4ed8,100:06b6d4&text=최유빈&fontColor=ffffff&fontSize=72&fontAlignY=42&desc=Freelance%20Developer%20from%20Vietnam&descAlignY=61&descSize=18" alt="최유빈 hero banner" />
 </div>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## About Me
 
-- I am **Skoxz** (GitHub: **ItIs-Dev**), a freelance developer currently living in **Vietnam**.
+- I am **최유빈** (GitHub: **CYooBin**), a freelance developer currently living in **Vietnam**.
 - I am currently working at **2tech**, focused on building **Minecraft PE** servers and commercial support software.
 - I enjoy creating mini games as a personal hobby.
 - I have a basic **Back-end** foundation and keep learning to expand my skill set.
