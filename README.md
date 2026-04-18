@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0b1220,40:1d4ed8,100:06b6d4&text=최유빈&fontColor=ffffff&fontSize=72&fontAlignY=42&desc=Freelance%20Developer%20from%20Vietnam&descAlignY=61&descSize=18" alt="최유빈 hero banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0b1220,40:1d4ed8,100:06b6d4&text=최유빈&fontColor=ffffff&fontSize=72&fontAlignY=42&desc=Freelance%20Developer&descAlignY=61&descSize=18" alt="최유빈 hero banner" />
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=860&lines=Hello%2C+I+am+Skoxz.;Freelance+Developer+%7C+Minecraft+PE+Studio+Builder.;I+love+building+small+games+for+fun." alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=860&lines=Hello%2C+I+am+최유빈.;Freelance+Developer+%7C+Minecraft+PE+Studio+Builder.;I+love+building+small+games+for+fun." alt="typing intro" />
 </p>
 
 ## About Me
