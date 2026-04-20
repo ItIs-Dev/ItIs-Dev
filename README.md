@@ -20,8 +20,6 @@
 - I have a basic **Back-end** foundation and keep learning to expand my skill set.
 - Fun fact: I am only **16 years old**.
 
-## Languages
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,java,lua,cpp,python&perline=5" alt="Main language icons" />
 </p>
@@ -30,16 +28,11 @@
   <img src="https://img.shields.io/badge/Cpp-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp" />
 </p>
 
-## GitHub Performance
-
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=CYooBin10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYooBin10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CYooBin10&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub trophies" />
-</div>
 
 ## Reach Me
 
